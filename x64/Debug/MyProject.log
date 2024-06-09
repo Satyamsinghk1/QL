@@ -1,0 +1,12 @@
+﻿  Distance.cpp
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(32,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(33,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(34,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(224,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(225,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(226,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(402,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MyProject.vcxproj -> C:\Users\ss153542\source\Backup\MyQL\x64\Debug\MyQL.exe

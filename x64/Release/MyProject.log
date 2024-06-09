@@ -1,0 +1,15 @@
+﻿  Distance.cpp
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(32,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(33,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(34,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(46,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(52,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(52,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(52,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(222,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(223,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ss153542\source\Backup\MyQL\Distance.cpp(224,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Distance.obj : error LNK2001: unresolved external symbol "public: __cdecl CKDTreeLeafNode::CKDTreeLeafNode(void)" (??0CKDTreeLeafNode@@QEAA@XZ)
+C:\Users\ss153542\source\Backup\MyQL\x64\Release\MyQL.exe : fatal error LNK1120: 1 unresolved externals
